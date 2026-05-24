@@ -34,7 +34,7 @@ El proyecto fue realizado con **Visual Studio Code** utilizando un entorno virtu
 
 ---
 
-# Tecnologías Utilizadas
+# Herramientas Utilizadas
 
 | Tecnología | Descripción |
 | Python | Lenguaje de programación principal |
